@@ -27,11 +27,18 @@ I've used a few but these are the ones I feel I have a decent backgroud in:
 * *C++*
 * *R*
 
+### Top 3 Languages:
 
+Based off how familiar and effective I am with them:
+
+1. *Java*
+2. *Python*
+3. *Markdown*
+   
 
 ## My Life With Computers
 
-At the age of 5, my very first computer was one of those really old IBM personal computers that used to run Windows98. Technically it was my family's computer but it was my first time interacting with one. The first game I ever played on a pc was Minesweeper and although I was extremely bad at it, I found myself stuck playing the game. Over time, my interest of computers grew and eventually I'd dream of being "one of the people behind the computers". This got me further interested in the field and by middle school I was claiming that my dream career would be a Software Engineer funnily enough. I had a goal and wanted to learn as much as I could. I also grew in interest in building pc's by then, but had no means to actually try it out. Eventually in high school when the pandemic started, I would build my very first pc. I was happy with it and used it from then to now, upgrading it along the way. My pc went from [this](#first-pc) to [this](#current-pc).
+At the age of 5, my very first computer was one of those really old IBM personal computers that used to run Windows98. Technically it was my family's computer but it was my first time interacting with one. The first game I ever played on a pc was Minesweeper and although I was extremely bad at it, I found myself stuck playing the game. Over time, my interest of computers grew and eventually I'd dream of being "one of the people behind the computers". This got me further interested in the field and by middle school I was claiming that my dream career would be a Software Engineer funnily enough. I had a goal and wanted to learn as much as I could. I also grew in interest in building pc's by then, but had no means to actually try it out. Eventually in high school when the pandemic started, I would build my very first pc. I was happy with it and used it from then to now, upgrading it along the way using [PC Part Picker](https://pcpartpicker.com/). My pc went from [this](#first-pc) to [this](#current-pc).
 
 ### First PC 
 ![first pc picture](index_images/first%20pc.jpg)
@@ -39,6 +46,7 @@ At the age of 5, my very first computer was one of those really old IBM personal
 
 ### Current PC
 ![current pc picture](index_images/current%20pc.jpg)
+
 [Back to My Life With Computers](#my-life-with-computers)
 
 
@@ -50,9 +58,10 @@ This is just to make sure I cover everything
 - [x] Styling text
 - [x] Quoting text
 - [x] Quoting code
-- [] External Links (Link to another webpage)
+- [x] External Links (Link to another webpage)
 - [x] Section links (Link to a header in the same .md file)
 - [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-- [] Ordered and Unordered Lists
+- [x] Ordered and Unordered Lists
 - [x] Task lists
-- [] Leaving this unchecked for fun
+- [ ] Leaving this unchecked for fun
+[Back to Top](#brandens-user-page)
