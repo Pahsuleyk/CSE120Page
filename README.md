@@ -1,2 +1,1 @@
-# CSE120Page
-Refamiliarizing myself with Git
+# Branden's User Page
